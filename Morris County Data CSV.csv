@@ -1,0 +1,815 @@
+tract,Name,TBR Black,TBR Asian,TBR Hispanic,TBR White
+34013006800,"Ironbound District, Newark, NJ",0.9035,0,0.4195,0.1866
+34017004700,"Jersey City, NJ",0.6466,0,0.1794,0
+34013003900,"Springfield/Belmont, Newark, NJ",0.6327,0,0,0
+34013003700,"West Side, Newark, NJ",0.626,0,0,0
+34017010400,"Bayonne, NJ",0.6118,0,0.163,0.0759
+34017001701,"West Side, Jersey City, NJ",0.6047,0.03,0.3463,0
+34039030400,"Elizabeth, NJ",0.5985,0,0.3195,0.1853
+34039039800,"Elizabeth, NJ",0.5962,0,0.354,0.1436
+34031175703,"Passaic, NJ",0.595,0.0749,0.2913,0.0006
+34013007502,"North Ironbound, Newark, NJ",0.5923,0,0.2022,0.2322
+36085012500,"Richmond County, NY",0.5776,#N/A,#N/A,#N/A
+34013009200,"Mount Pleasant/Lower Broadway, Newark, NJ",0.5696,0,0.3654,0
+34031181400,"Paterson, NJ",0.5692,0,0.3666,0
+34013009600,"North Broadway, Newark, NJ",0.5671,0,0.3636,0
+34013009700,"North Broadway, Newark, NJ",0.5627,0,0.3776,0
+34013004300,"Upper Clinton Hill, Newark, NJ",0.5567,0,0,0
+34013001600,"Fairmount, Newark, NJ",0.5551,0,0,0
+36085024700,"Richmond County, NY",0.5481,#N/A,#N/A,#N/A
+34013001800,"Fairmount, Newark, NJ",0.5476,0,0,0
+34013004802,"Dayton/Weequahic Park, Newark, NJ",0.5457,0,0.1953,0
+34031182100,"Paterson, NJ",0.5421,0,0.3532,0.2358
+34013006200,"Springfield/Belmont, Newark, NJ",0.5414,0,0,0
+34017006100,"Greenville, Jersey City, NJ",0.5362,0.1117,0.2067,0.1331
+34013001400,"Fairmount, Newark, NJ",0.5352,0,0,0
+34017001800,"Journal Square, Jersey City, NJ",0.5329,0.0098,0.3545,0.0404
+34013023200,"South Broad Street, Newark, NJ",0.532,0,0.3916,0
+34013008200,"University Heights, Newark, NJ",0.5304,0,0,0
+34039030200,"Elizabeth, NJ",0.5287,0,0.3915,0
+34013022800,"Springfield/Belmont, Newark, NJ",0.5285,0,0,0
+34013002600,"West Side, Newark, NJ",0.5277,0,0,0
+34031181702,"Paterson, NJ",0.5204,0,0.5051,0
+34031180900,"Paterson, NJ",0.5179,0,0.397,0.1225
+34039031000,"Elizabeth, NJ",0.5167,0,0.4315,0.0231
+36085013302,"Richmond County, NY",0.5161,#N/A,#N/A,#N/A
+34031180700,"Paterson, NJ",0.5159,0,0.4362,0
+34031181500,"Paterson, NJ",0.5105,0,0.3173,0
+34013000300,"Upper Roseville, Newark, NJ",0.5095,0,0.2172,0
+34013004400,"Weequahic, Newark, NJ",0.5072,0,0,0
+34013004200,"Upper Clinton Hill, Newark, NJ",0.507,0,0,0
+34013022700,"South Broad Street, Newark, NJ",0.5054,0,0.3674,0
+34039030500,"Elizabeth, NJ",0.5018,0,0.2629,0.0191
+34013006600,"Springfield/Belmont, Newark, NJ",0.5012,0,0,0
+34013023000,"West Side, Newark, NJ",0.5003,0,0,0
+34013003500,"West Side, Newark, NJ",0.4972,0,0,0
+34031182800,"Paterson, NJ",0.4966,0,0.2621,0
+34013008100,"Central Business District, Newark, NJ",0.4944,0,0,0
+34013002800,"West Side, Newark, NJ",0.4919,0,0,0
+34017006700,"Bergen/Lafayette, Jersey City, NJ",0.4904,0,0.4045,0
+34013000900,"Lower Roseville, Newark, NJ",0.4857,0,0.4049,0
+34013001000,"University Heights, Newark, NJ",0.4852,0,0.3803,0
+34013006700,"South Broad Street, Newark, NJ",0.4839,0,0.556,0
+34013001900,"Lower Vailsburg, Newark, NJ",0.4839,0,0,0
+34017005200,"Greenville, Jersey City, NJ",0.4808,0,0.1518,0.0155
+34017002700,"West Side, Jersey City, NJ",0.4795,0.0062,0.301,0.3233
+34013023100,"West Side, Newark, NJ",0.4791,0,0,0
+34017003000,"McGinley Square, Jersey City, NJ",0.4784,0.0981,0.3768,0
+34017006800,"Bergen/Lafayette, Jersey City, NJ",0.4776,0,0.2192,0
+34013018400,"City of Orange, NJ",0.4753,0,0,0
+34013001100,"University Heights, Newark, NJ",0.4735,0,0.2983,0
+34039030802,"Elizabeth, NJ",0.473,0,0.2076,0.1357
+34013010900,"East Orange, NJ",0.4724,0,0.7361,0
+34031175402,"Passaic, NJ",0.4701,0,0.3605,0
+34031182200,"Paterson, NJ",0.4693,0,0.4161,0
+34013014400,"Belleville, NJ",0.4615,0,0.162,0.0534
+34039035400,"Linden, NJ",0.4605,#N/A,#N/A,#N/A
+34013001500,"Fairmount, Newark, NJ",0.457,0,0,0
+34013013100,"Irvington, NJ",0.4563,0,0,0
+34017005300,"Bergen/Lafayette, Jersey City, NJ",0.4555,0,0.3454,0
+34031181200,"Paterson, NJ",0.4551,0,0.3242,0
+34013001700,"Fairmount, Newark, NJ",0.4547,0,0,0
+34039039000,"Plainfield, NJ",0.4537,#N/A,#N/A,#N/A
+36085031901,"Richmond County, NY",0.4536,#N/A,#N/A,#N/A
+34031180800,"Paterson, NJ",0.4501,0,0.4102,0
+34013005400,"Upper Clinton Hill, Newark, NJ",0.4474,0,0,0
+34013004500,"Weequahic, Newark, NJ",0.4462,0,0,0
+34013010800,"East Orange, NJ",0.4447,0,0.5184,0
+34031183101,"Paterson, NJ",0.4447,0,0.2455,0.1628
+34031182900,"Paterson, NJ",0.4446,0,0.4275,0
+34031175802,"Passaic, NJ",0.4398,0,0.3979,0
+34031175200,"Passaic, NJ",0.4387,0,0.3939,0
+34031182302,"Paterson, NJ",0.4385,0,0.3598,0
+34013005700,"South Broad Street, Newark, NJ",0.4374,0,0.4071,0
+36087012501,"Airmont, NY",0.4351,0,0.0654,0.0119
+34013004700,"Weequahic, Newark, NJ",0.4336,0,0.5078,0
+34013013300,"Irvington, NJ",0.4324,0,0.3236,0
+34013011100,"East Orange, NJ",0.4303,0,0.4766,0
+34031180600,"Paterson, NJ",0.4271,0,0.3286,0.1746
+34013013200,"Irvington, NJ",0.4267,0,0.425,0
+34013014600,"Belleville, NJ",0.4249,0.0356,0.1174,0.0586
+34013011200,"East Orange, NJ",0.4247,0,0.3106,0
+34017011100,"Constable Hook, Bayonne, NJ",0.4245,0,0.2228,0.0448
+34031183200,"Paterson, NJ",0.4236,0,0.2723,0
+34013010300,"East Orange, NJ",0.4215,0,0,0
+34017004200,"West Side, North Bergen, NJ",0.4206,0.0107,0.2615,0
+34013005100,"Weequahic, Newark, NJ",0.4203,0,0,0
+34013005000,"South Broad Street, Newark, NJ",0.4188,0,0,0
+34013009000,"Seventh Avenue, Newark, NJ",0.4185,0,0.3129,0
+34031264200,"Paterson, NJ",0.4184,0,0.4097,0
+34031175801,"Passaic, NJ",0.418,0.0097,0.2695,0
+34013003100,"Springfield/Belmont, Newark, NJ",0.418,0,0,0
+36085003300,"Richmond County, NY",0.4174,#N/A,#N/A,#N/A
+34013001300,"Fairmount, Newark, NJ",0.4169,0,0,0
+34013008000,"Central Business District, Newark, NJ",0.4164,0,0.3721,0
+36085014100,"Richmond County, NY",0.4154,#N/A,#N/A,#N/A
+34017005801,"Greenville, Jersey City, NJ",0.4146,0,0.4101,0
+34039034400,"Roselle, NJ",0.4142,0,0.2249,0
+34039031300,"Elizabeth, NJ",0.4129,0,0.2327,0.0891
+34013000100,"Forest Hill, Newark, NJ",0.4124,0,0.2405,0.12
+34013004900,"Weequahic, Newark, NJ",0.412,0,0,0
+34013003800,"West Side, Newark, NJ",0.4109,0,0,0
+34039031400,"Elizabeth, NJ",0.409,0,0.3479,0
+34013011300,"East Orange, NJ",0.4073,0,0.1371,0
+34039031700,"Elizabeth, NJ",0.4073,0,0.1985,0.106
+34013007501,"North Ironbound, Newark, NJ",0.4072,0,0.3274,0.1415
+34017004400,"Bergen/Lafayette, Jersey City, NJ",0.4058,0,0.4074,0
+36085000700,"Richmond County, NY",0.4055,#N/A,#N/A,#N/A
+34013002500,"Lower Vailsburg, Newark, NJ",0.4036,0,0,0
+34013004100,"Upper Clinton Hill, Newark, NJ",0.4017,0,0,0
+34017004102,"McGinley Square, Jersey City, NJ",0.4016,0,0.4596,0
+34013010700,"East Orange, NJ",0.4008,0,0,0
+34013004600,"Weequahic, Newark, NJ",0.4002,0,0,0
+34039035300,"Linden, NJ",0.3987,#N/A,#N/A,#N/A
+36085023100,"Richmond County, NY",0.3973,#N/A,#N/A,#N/A
+34031183000,"Paterson, NJ",0.3939,0,0.3121,0.1884
+34013005300,"Upper Clinton Hill, Newark, NJ",0.3937,0,0,0
+34031180201,"Paterson, NJ",0.3936,0,0.3017,0.1755
+34031180300,"Paterson, NJ",0.3906,0,0.3579,0.2688
+34013000700,"Lower Roseville, Newark, NJ",0.3905,0,0.2845,0.0594
+34039031200,"Elizabeth, NJ",0.3895,0,0.3013,0
+34027043800,"Morristown, NJ",0.3894,0,0.3835,0.0232
+34017006000,"Greenville, Jersey City, NJ",0.3881,0,0.3001,0
+36085002100,"Richmond County, NY",0.3867,#N/A,#N/A,#N/A
+36085001100,"Richmond County, NY",0.386,#N/A,#N/A,#N/A
+34013004801,"Weequahic, Newark, NJ",0.3858,0,0,0
+34013014700,"Belleville, NJ",0.3852,0.0079,0.2282,0.0613
+34013002000,"Lower Vailsburg, Newark, NJ",0.3836,0,0,0
+34013018600,"City of Orange, NJ",0.3833,0,0.3032,0
+34039031500,"Elizabeth, NJ",0.3833,0,0.2485,0.0395
+34013002400,"Lower Vailsburg, Newark, NJ",0.3824,0,0,0
+34027045000,"Dover, NJ",0.3803,0,0.1882,0.1302
+34039031601,"Elizabeth, NJ",0.3776,0,0.383,0.0377
+34031182400,"Paterson, NJ",0.3772,0,0.2941,0
+34017004500,"Bergen/Lafayette, Jersey City, NJ",0.3758,0,0.1544,0
+34017005900,"Greenville, Jersey City, NJ",0.3756,0.1253,0.2072,0.0259
+34003023501,"Hackensack, NJ",0.3753,0,0.2204,0
+34013012600,"Irvington, NJ",0.3737,0,0.4033,0
+34013011600,"East Orange, NJ",0.3734,0,0,0
+34017006300,"Greenville, Jersey City, NJ",0.3722,0.0832,0.2774,0.0488
+34013018900,"City of Orange, NJ",0.3708,0,0.3847,0
+34013011400,"East Orange, NJ",0.3696,0,0,0
+34017006200,"Greenville, Jersey City, NJ",0.3695,0,0.2372,0.01
+36085020700,"Richmond County, NY",0.3695,#N/A,#N/A,#N/A
+34013010400,"East Orange, NJ",0.3683,0,0.233,0
+34017003100,"Bergen/Lafayette, Jersey City, NJ",0.3661,0.0801,0.2561,0
+34031180202,"Paterson, NJ",0.3652,0.1101,0.2733,0.3174
+34013010500,"East Orange, NJ",0.3645,0,0.2238,0
+34013018100,"City of Orange, NJ",0.3621,0,0,0
+34031175401,"Passaic, NJ",0.3616,0,0.3487,0.202
+34017004300,"Bergen/Lafayette, Jersey City, NJ",0.3614,0,0.3919,0
+34031181100,"Paterson, NJ",0.3612,0,0.2861,0.0581
+34017004800,"Hackensack River Waterfront, Jersey City, NJ",0.3592,0.0917,0.2169,0.1954
+34013010600,"East Orange, NJ",0.3563,0,0.4918,0
+36085013301,"Richmond County, NY",0.3563,#N/A,#N/A,#N/A
+34017011600,"Constable Hook, Bayonne, NJ",0.3523,#N/A,#N/A,#N/A
+34017011000,"Constable Hook, Bayonne, NJ",0.3497,0,0.3184,0.0284
+34031203600,"Prospect Park, NJ",0.3481,0,0.2686,0.076
+34031175302,"Passaic, NJ",0.3462,0,0.4331,0.2064
+34013011500,"East Orange, NJ",0.3457,0,0,0
+34031182500,"Paterson, NJ",0.3455,0,0.3152,0.1029
+34017005500,"Greenville, Jersey City, NJ",0.3449,0,0,0
+34031124700,"Clifton, NJ",0.3445,0,0.2489,0.0458
+34013005200,"Upper Clinton Hill, Newark, NJ",0.3398,0,0,0
+34013002300,"Lower Vailsburg, Newark, NJ",0.3393,0,0,0
+34013012800,"Irvington, NJ",0.3386,0,0.239,0
+34013022900,"University Heights, Newark, NJ",0.3386,0,0.2982,0
+34017004600,"Bergen/Lafayette, Jersey City, NJ",0.3374,0,0.3131,0
+34039034000,"Roselle, NJ",0.3372,0,0.2146,0.054
+34013000800,"Lower Roseville, Newark, NJ",0.3371,0,0.2981,0
+34013012000,"Irvington, NJ",0.3368,0.0369,0.3557,0.1098
+34013018800,"City of Orange, NJ",0.3363,0,0,0
+34039038900,"Plainfield, NJ",0.3363,#N/A,#N/A,#N/A
+34031181300,"Paterson, NJ",0.3347,0,0.3353,0
+34013013000,"Irvington, NJ",0.3329,0,0,0
+36085009700,"Richmond County, NY",0.3314,#N/A,#N/A,#N/A
+34013015600,"Bloomfield, NJ",0.3307,0,0.2539,0.0237
+34013011700,"East Orange, NJ",0.329,0,0,0
+36085007700,"Richmond County, NY",0.3276,#N/A,#N/A,#N/A
+34039034500,"Linden, NJ",0.3253,0,0.1869,0.0155
+36085010500,"Richmond County, NY",0.3247,#N/A,#N/A,#N/A
+34017004101,"West Side, Jersey City, NJ",0.3239,0.0809,0.2874,0.1311
+34013012900,"Irvington, NJ",0.3223,0,0.5337,0
+34039032001,"Elizabeth, NJ",0.3221,0,0.1644,0.1116
+34031182700,"Paterson, NJ",0.3183,0,0.3193,0.0847
+42103950801,"Pike County, PA",0.317,#N/A,#N/A,#N/A
+34039039900,"Elizabeth, NJ",0.3167,0,0.3548,0
+36085032300,"Richmond County, NY",0.3139,#N/A,#N/A,#N/A
+42089301401,"East Stroudsburg, PA",0.3138,0,0,0.0987
+34039038800,"Plainfield, NJ",0.3136,#N/A,#N/A,#N/A
+34013006400,"University Heights, Newark, NJ",0.3132,0,0,0
+36085031902,"Richmond County, NY",0.313,#N/A,#N/A,#N/A
+34039031100,"Elizabeth, NJ",0.3127,0,0.2587,0.1605
+34017005600,"Greenville, Jersey City, NJ",0.3124,0.0582,0.2323,0.1604
+34013009900,"East Orange, NJ",0.3106,0,0,0
+36085022300,"Richmond County, NY",0.3099,#N/A,#N/A,#N/A
+34013018700,"City of Orange, NJ",0.3095,0,0.1,0
+34013002201,"Upper Vailsburg, Newark, NJ",0.3092,0.151,0.2113,0.0144
+36085008100,"Richmond County, NY",0.3038,#N/A,#N/A,#N/A
+34013008700,"Mount Pleasant/Lower Broadway, Newark, NJ",0.3021,0,0.3304,0
+34003023602,"Hackensack, NJ",0.3017,0,0.1892,0.067
+34039034600,"Linden, NJ",0.3011,#N/A,#N/A,#N/A
+34013009500,"Forest Hill, Newark, NJ",0.2997,0,0.2201,0.0182
+34013010100,"East Orange, NJ",0.2995,0,0,0
+34013018200,"City of Orange, NJ",0.2995,0,0.2237,0
+34013017800,"West Orange, NJ",0.2991,0,0.122,0.145
+34039030702,"Elizabeth, NJ",0.2975,0.008,0.2651,0.1145
+34013002202,"Upper Vailsburg, Newark, NJ",0.2942,0,0.1405,0
+34039031602,"Elizabeth, NJ",0.293,0,0.2797,0.0554
+34039032200,"Hillside, NJ",0.2929,0,0.2847,0
+34031175500,"Passaic, NJ",0.2907,0,0.3125,0.3247
+34013012500,"Irvington, NJ",0.2906,0,0.6691,0
+34039032800,"Union County, NJ",0.2897,0,0,0.0257
+34013010000,"East Orange, NJ",0.2868,0,0,0
+34039031903,"Elizabeth, NJ",0.2862,0,0.2173,0.1083
+34013008900,"Seventh Avenue, Newark, NJ",0.286,0,0.3079,0
+34013015400,"Bloomfield, NJ",0.284,0,0.0265,0.1302
+34039035100,"Linden, NJ",0.283,#N/A,#N/A,#N/A
+34013002100,"Upper Vailsburg, Newark, NJ",0.2786,0,0.151,0
+34013011900,"Irvington, NJ",0.278,0,0.1351,0
+34017005400,"Greenville, Jersey City, NJ",0.2766,0.0253,0.2219,0
+34013012100,"Irvington, NJ",0.2765,0,0.3283,0.1196
+34017004900,"West Side, Jersey City, NJ",0.2711,0.0039,0.1695,0
+34039033500,"Union, NJ",0.2704,0,0.0599,0.0122
+36085007500,"Richmond County, NY",0.2702,#N/A,#N/A,#N/A
+34039031802,"Elizabeth, NJ",0.2699,0,0.2143,0.1137
+34027044900,"Dover, NJ",0.2697,0,0.1908,0.0782
+34031181000,"Paterson, NJ",0.2692,0,0.2445,0.1233
+34017004000,"West Side, Jersey City, NJ",0.2686,0.0497,0.2501,0.0781
+34039032300,"Hillside, NJ",0.268,0,0.1169,0.1453
+34031180100,"Paterson, NJ",0.2677,0,0.2987,0.0832
+36085023900,"Richmond County, NY",0.2676,#N/A,#N/A,#N/A
+34013015700,"Bloomfield, NJ",0.2649,0,0.142,0.244
+34031175701,"Passaic, NJ",0.2647,0.0139,0.2438,0.0455
+34013010200,"East Orange, NJ",0.2645,0,0.1617,0
+34013009100,"Seventh Avenue, Newark, NJ",0.2633,0,0.3338,0
+34039032400,"Hillside, NJ",0.2627,0.0025,0.1441,0.0655
+34027044501,"Dover, NJ",0.2626,0.0008,0,0.0381
+34039034100,"Roselle, NJ",0.2625,0,0.1122,0.0576
+34013012700,"Irvington, NJ",0.2624,0,0.2269,0
+34013012300,"Irvington, NJ",0.2612,0,0.421,0.1566
+34013017100,"Montclair, NJ",0.2609,0,0,0
+34039037602,"Springfield Township, NJ",0.2606,0,0,0.0112
+34013018300,"City of Orange, NJ",0.2599,0,0.397,0
+34039039100,"Plainfield, NJ",0.2594,#N/A,#N/A,#N/A
+34031182600,"Paterson, NJ",0.2587,0,0.2752,0
+34039034300,"Roselle, NJ",0.2585,0,0.2375,0.0733
+34039030600,"Elizabeth, NJ",0.2566,0,0.2249,0.1096
+34017002000,"Journal Square, Jersey City, NJ",0.2561,0,0.2185,0.0847
+34027043600,"Morristown, NJ",0.2558,0,0.1483,0.0252
+34013011800,"East Orange, NJ",0.2549,0,0,0
+36085021300,"Richmond County, NY",0.254,#N/A,#N/A,#N/A
+34013012400,"Irvington, NJ",0.254,0,0.3489,0
+34031175602,"Passaic, NJ",0.2526,0.0901,0.2741,0.0877
+34013012200,"Irvington, NJ",0.2458,0,0.2062,0.0321
+34039033200,"Union, NJ",0.2445,0.0091,0.1604,0.0143
+34013019200,"South Orange, NJ",0.2428,0,0,0.0461
+34027046105,"Budd Lake, Mount Olive Township, NJ",0.2426,0,0.1341,0.0597
+34013009400,"Forest Hill, Newark, NJ",0.2391,0,0.2882,0.0264
+34013017700,"West Orange, NJ",0.2362,0,0.1116,0.0658
+34027043301,"Morristown, NJ",0.2359,0,0,0.0141
+34013009300,"North Broadway, Newark, NJ",0.2354,0,0.3611,0
+34017002800,"McGinley Square, Jersey City, NJ",0.2353,0.0835,0.201,0.0786
+34031183102,"Paterson, NJ",0.2348,0,0.1913,0.1075
+34003023401,"Hackensack, NJ",0.2325,0.0005,0.1027,0.0262
+34013015800,"Bloomfield, NJ",0.2324,0.0402,0.082,0.0071
+34039032700,"Union, NJ",0.2292,0.0278,0.126,0.0259
+34039038601,"Scotch Plains, NJ",0.2288,#N/A,#N/A,#N/A
+34027044800,"Dover, NJ",0.2252,0,0.2169,0.0536
+34013019700,"Maplewood, NJ",0.225,0,0.2287,0.0493
+34013017500,"West Orange, NJ",0.2163,0.0279,0,0.0083
+34039038400,"Scotch Plains, NJ",0.2145,0.0049,0.0416,0.0278
+34027043500,"Morristown, NJ",0.2113,0,0.3917,0.1466
+34013016800,"Montclair, NJ",0.2084,0,0,0.0376
+34035052001,"North Plainfield, NJ",0.2075,#N/A,#N/A,#N/A
+34039032500,"Hillside, NJ",0.2042,0,0.1231,0.0664
+34003023502,"Hackensack, NJ",0.2026,0,0.3304,0.0397
+34039034200,"Roselle, NJ",0.2004,0,0.0923,0.0422
+34003030400,"Lodi, NJ",0.1973,0.0066,0.0991,0.0563
+34003023302,"Hackensack, NJ",0.1972,0,0.0229,0.016
+34013016700,"Montclair, NJ",0.1905,0,0,0
+34013018000,"West Orange, NJ",0.1893,0,0,0.0353
+34031124500,"Clifton, NJ",0.1866,0,0.2305,0.0299
+34017007100,"Journal Square, Jersey City, NJ",0.1848,0.0499,0.3282,0.0169
+34013019500,"Maplewood, NJ",0.1845,0,0,0.0005
+34013015900,"Bloomfield, NJ",0.1827,0.0075,0.1453,0.0813
+34039033100,"Union, NJ",0.1785,0.0823,0.1361,0.0091
+34039031801,"Elizabeth, NJ",0.1779,0,0.1835,0.0607
+34003023402,"Hackensack, NJ",0.1778,0.0453,0.1276,0.039
+34039034700,"Linden, NJ",0.1756,#N/A,#N/A,#N/A
+34039032600,"Union, NJ",0.1752,0.0228,0.1737,0.0359
+34013016600,"Montclair, NJ",0.175,0,0,0.0957
+36087012401,"Monsey, NY",0.1689,#N/A,#N/A,#N/A
+34013016000,"Glen Ridge, NJ",0.1678,0,0.0434,0.0181
+34013019100,"South Orange, NJ",0.1646,0,0,0.0359
+34013019000,"South Orange, NJ",0.1639,0,0,0.0024
+34013017600,"West Orange, NJ",0.1626,0,0.1597,0.0948
+34017002900,"McGinley Square, Jersey City, NJ",0.1591,0.0403,0.2459,0.0496
+36087012106,"Spring Valley, NY",0.1571,#N/A,#N/A,#N/A
+34031181900,"Paterson, NJ",0.1558,0,0.298,0.0764
+34035052002,"North Plainfield, NJ",0.1545,#N/A,#N/A,#N/A
+34013015100,"Bloomfield, NJ",0.1543,0.0034,0.0933,0.0285
+34017001400,"The Heights, Jersey City, NJ",0.1491,0.0556,0.2053,0.2267
+34039036600,"Westfield, NJ",0.1489,0,0,0.0223
+34041031500,"Hackettstown, NJ",0.1486,0,0.0723,0.041
+34013016500,"Montclair, NJ",0.1483,0,0,0.0012
+34013017302,"West Orange, NJ",0.1441,0.021,0.0262,0.0093
+34013019800,"Maplewood, NJ",0.1439,0,0,0
+34013019300,"South Orange, NJ",0.1435,0,0,0.0097
+34013019600,"Maplewood, NJ",0.1383,0,0.178,0.0144
+34039038500,"Scotch Plains, NJ",0.1366,0,0,0.0059
+36085000900,"Richmond County, NY",0.1361,#N/A,#N/A,#N/A
+34013017200,"Montclair, NJ",0.1337,0,0,0
+34003023301,"Hackensack, NJ",0.1336,0,0.2551,0.0397
+42103950802,"Pike County, PA",0.1327,0,0.186,0.0958
+34013017900,"West Orange, NJ",0.1238,0,0,0.0224
+34039032901,"Union, NJ",0.1223,0.0393,0,0.0331
+34027046103,"Flanders, Mount Olive Township, NJ",0.121,0,0.1986,0.0061
+34003047400,"Ridgewood, NJ",0.1195,0.0019,0.0227,0.0193
+34013017000,"Montclair, NJ",0.1164,0,0,0.0141
+34013015500,"Bloomfield, NJ",0.1117,0,0.1617,0.0087
+34013016400,"Montclair, NJ",0.1094,0,0,0.0127
+34031264102,"Woodland Park, NJ",0.1076,0.01,0.2738,0.0259
+34039038000,"Summit, NJ",0.1033,0,0.0825,0.0188
+34013016900,"Montclair, NJ",0.0998,0,0,0.0179
+34039034900,"Linden, NJ",0.0905,#N/A,#N/A,#N/A
+34039038700,"Fanwood, NJ",0.079,0,0.0182,0.0118
+34013015300,"Bloomfield, NJ",0.0752,0,0.1907,0.022
+36087012502,"Chestnut Ridge, NY",0.0645,0.0069,0.1761,0.0287
+34039033000,"Union, NJ",0.0632,0,0.1793,0.0347
+34013017400,"West Orange, NJ",0.0159,0.0235,0.0671,0.011
+34031143200,"Hawthorne, NJ",,,0,0.0089
+34017013300,"Kearny, NJ",,,0.1955,0.1004
+34019010702,"Pittstown, Franklin, NJ",,,#N/A,#N/A
+34003057102,"Wallington, NJ",,,0,0.0129
+34003001000,"Allendale, NJ",,,0,0.0103
+34013020600,"Livingston, NJ",,,0,0.0063
+34027041705,"Parsippany, Parsippany-Troy Hills, NJ",,,0,0.0222
+34027040300,"Pompton Plains, Pequannock Township, NJ",,,0,0.0128
+34027043700,"Morristown, NJ",,,0,0.0234
+34003042100,"Paramus, NJ",,,0.0034,0.022
+34027043900,"Chatham Township, NJ",,,0,0.0032
+34035051700,"North Plainfield, NJ",,,#N/A,#N/A
+34037372000,"Newton, NJ",,,0,0.0382
+34027042500,"Florham Park, NJ",,,0,0.0169
+34035052204,"Warren, NJ",,,0,0.0106
+34013021702,"Caldwell, NJ",,,0,0.0296
+34013007400,"Newark, NJ",,,0,0.1202
+34003051400,"Rutherford, NJ",,,0.0238,0.0145
+34003057200,"Wallington, NJ",,,0,0.07
+34013021400,"Cedar Grove, NJ",,,0.0492,0.0099
+34039038201,"Berkeley Heights, NJ",,,0,0.0046
+34003020200,"Franklin Lakes, NJ",,,0,0.0026
+34031236601,"Haskell, Wanaque, NJ",,,0,0.0388
+34037374900,"Hopatcong, NJ",,,0.0629,0.0823
+42095018300,"Bangor, PA",,,0,0.111
+34027046298,"Long Valley, Washington Township, NJ",,,0,0.0195
+34017001202,"Journal Square, Jersey City, NJ",,,0.2309,0
+34027040900,"Boonton, NJ",,,0,0.0141
+34003061300,"Wyckoff, NJ",,,0,0.0047
+34035052601,"Far Hills, NJ",,,0,0.0157
+34039036400,"Westfield, NJ",,,0,0.0046
+34019010200,"Glen Gardner, NJ",,,0,0.0441
+34017011200,"Constable Hook, Bayonne, NJ",,,0.2358,0.0435
+34003035200,"Woodcliff Lake, NJ",,,0,0.0003
+34027042301,"Morris Plains, NJ",,,0,0.007
+34003042301,"Paramus, NJ",,,0,0.0409
+34003053200,"Upper Saddle River, NJ",,,0.0101,0.0131
+34019010900,"High Bridge, NJ",,,0,0.0578
+34039034800,"Linden, NJ",,,0.1404,0.0516
+34027045300,"Kenvil, Roxbury Township, NJ",,,0.1839,0.029
+34041031700,"Belvidere, NJ",,,0,0.0638
+34003012002,"East Rutherford, NJ",,,0,0.0166
+34017012400,"Kearny, NJ",,,0.124,0.025
+34031182000,"Paterson, NJ",,,0.4426,0
+34027042200,"Cedar Knolls, Hanover, NJ",,,0,0.0019
+34037373300,"Sparta Township, NJ",,,0,0.0307
+34003051300,"Rutherford, NJ",,,0.1689,0.0023
+34017000400,"The Heights, Jersey City, NJ",,,0.3158,0.098
+34013013900,"Nutley, NJ",,,0.1068,0.0483
+34027040805,"Towaco, Montville, NJ",,,0,0.0297
+34027044300,"Rockaway, NJ",,,0.1452,0.0213
+34031154002,"Little Falls, NJ",,,0.0823,0.0399
+34039031904,"Elizabeth, NJ",,,0.286,0
+34003005000,"Carlstadt, NJ",,,0.1039,0.0389
+34017980100,"Ellis Island, Jersey City, NJ",,,0,0
+34027041000,"Boonton, NJ",,,0,0.0441
+34037373800,"Newton, NJ",,,0,0.0867
+34017010900,"Constable Hook, Bayonne, NJ",,,0.2289,0.062
+34037374800,"Stanhope, NJ",,,0.0734,0.0847
+34017001100,"The Heights, Jersey City, NJ",,,0.3255,0.1397
+34003042500,"Paramus, NJ",,,0,0.0273
+34019010802,"Lebanon, NJ",,,0,0.0582
+34027044602,"Oak Ridge, Jefferson, NJ",,,0,0.028
+34031246002,"Wayne, NJ",,,0,0.0132
+34019010100,"Lebanon, NJ",,,0,0.0166
+34037372900,"Franklin, NJ",,,#N/A,#N/A
+34039036700,"Westfield, NJ",,,#N/A,#N/A
+34003033200,"Maywood, NJ",,,0,0.0249
+34003031100,"Lyndhurst, NJ",,,0.0043,0.0294
+34017013600,"Harrison, NJ",,,0.2176,0.0815
+34039035000,"Linden, NJ",,,#N/A,#N/A
+34003030300,"Lodi, NJ",,,0.1693,0.0515
+34027040702,"Butler, NJ",,,0,0.0059
+34003014000,"Emerson, NJ",,,0,0.0055
+34031236602,"Wanaque, NJ",,,0.0856,0.0284
+34013980100,"Newark, NJ",,,0,0
+42089300502,"East Stroudsburg, PA",,,0.1236,0.0505
+34013021802,"West Caldwell, NJ",,,0,0.0145
+42089301402,"East Stroudsburg, PA",,,0,0.1234
+34027041704,"Parsippany, Parsippany-Troy Hills, NJ",,,0,0.0243
+34039030701,"Elizabeth, NJ",,,0.2425,0.1403
+34027040804,"Montville, NJ",,,0,0.0409
+34013016300,"Upper Montclair, Montclair, NJ",,,0,0.009
+34037373700,"Newton, NJ",,,0,0.0645
+34003027000,"Ho-Ho-Kus, NJ",,,0,0.0142
+34027044404,"White Meadow Lake, Rockaway, NJ",,,0,0.0369
+34003032102,"Mahwah, NJ",,,0,0.0158
+34027042900,"Madison, NJ",,,0,0.0041
+34013019900,"Maplewood, NJ",,,0,0.0047
+34027040200,"Pompton Plains, Pequannock Township, NJ",,,0,0.0177
+34017013700,"East Newark, NJ",,,0.1417,0.0861
+34031124602,"Clifton, NJ",,,0.1192,0.0336
+34003044201,"Ramsey, NJ",,,0,0.0196
+34013000500,"Upper Roseville, Newark, NJ",,,0.2458,0
+34035052300,"Watchung, NJ",,,0,0
+34027045402,"Landing, Roxbury Township, NJ",,,0.1002,0.0466
+36085000300,"Richmond County, NY",,,#N/A,#N/A
+34003017100,"Fair Lawn, NJ",,,0,0.0096
+34003042302,"Paramus, NJ",,,0,0.0035
+34027040101,"Lincoln Park, NJ",,,0,0.0416
+34027046297,"Long Valley, Washington Township, NJ",,,0,0.0225
+36085029102,"Richmond County, NY",,,#N/A,#N/A
+34035052201,"Warren, NJ",,,0,0.017
+34041031402,"Hackettstown, NJ",,,0,0.0528
+34003026200,"Hillsdale, NJ",,,0.0768,0.0152
+34039038602,"Scotch Plains, NJ",,,#N/A,#N/A
+34019011002,"Hunterdon County, NJ",,,0,0.009
+34027041300,"Denville, NJ",,,0,0.038
+34013016200,"Upper Montclair, Montclair, NJ",,,0,0.0041
+34003033100,"Maywood, NJ",,,0.0182,0.0205
+34031256805,"Newfoundland, West Milford, NJ",,,0,0.048
+34017006600,"Jersey City, NJ",,,0,0
+34003020100,"Franklin Lakes, NJ",,,0,0.0054
+34013021300,"Cedar Grove, NJ",,,0,0.0216
+34003031300,"Lyndhurst, NJ",,,0.0809,0.0096
+34031256802,"Hewitt, West Milford, NJ",,,0,0.0529
+34031116500,"Bloomingdale, NJ",,,0.144,0.0326
+34017013100,"Kearny, NJ",,,0.1917,0.0333
+34013016100,"Upper Montclair, Montclair, NJ",,,0,0.0054
+34003012001,"East Rutherford, NJ",,,0.3008,0.0494
+34013021601,"Fairfield, NJ",,,0,0.0214
+34013014100,"Belleville, NJ",,,0.0198,0.0257
+34003061400,"Wyckoff, NJ",,,0,0.0081
+34035050901,"Martinsville, Bridgewater, NJ",,,#N/A,#N/A
+34039037300,"Cranford, NJ",,,0,0.034
+34027046106,"Budd Lake, Mount Olive Township, NJ",,,0,0.047
+34031246300,"Wayne, NJ",,,0.0418,0.0399
+34003025200,"Hasbrouck Heights, NJ",,,0.0515,0.0304
+34017006900,"West Side, Jersey City, NJ",,,0,0
+34027041702,"Lake Hiawatha, Parsippany-Troy Hills, NJ",,,0.2257,0.0705
+34027042800,"Chatham, NJ",,,0,0.0019
+34017010300,"Bayonne, NJ",,,0.2698,0.0187
+34017020000,"Secaucus, NJ",,,0.2136,0.0778
+34003022100,"Glen Rock, NJ",,,0,0.0009
+34027044200,"Morristown, NJ",,,0,0.0067
+34027040400,"Riverdale, NJ",,,0,0.0374
+34019010801,"Clinton, NJ",,,#N/A,#N/A
+34031256803,"West Milford, NJ",,,#N/A,#N/A
+34003059200,"Westwood, NJ",,,0.0326,0.0229
+34039036301,"Clark, NJ",,,#N/A,#N/A
+34031133702,"Haledon, NJ",,,0.1789,0.077
+34019010701,"Pittstown, Union Township, NJ",,,0,0.0198
+34013013600,"Nutley, NJ",,,0.1491,0.0335
+34031216702,"Ringwood, NJ",,,0,0.014
+34003021600,"Garfield, NJ",,,0.2426,0.0793
+34003052100,"Saddle Brook, NJ",,,0.0383,0.0188
+34037372600,"Stockholm, Hardyston Township, NJ",,,0,0.057
+34013007600,"North Ironbound, Newark, NJ",,,0.1977,0.1568
+34003025100,"Hasbrouck Heights, NJ",,,0.1259,0.0035
+34017000500,"The Heights, Jersey City, NJ",,,0.2313,0.0972
+34003057101,"Wallington, NJ",,,0,0.0718
+34019010400,"Asbury, NJ",,,0,0.0246
+34003053100,"Saddle River, NJ",,,0,0.0059
+34003058100,"Township of Washington, NJ",,,0,0.0328
+34039037400,"Cranford, NJ",,,0,0.0208
+34027045703,"Mount Freedom, Randolph, NJ",,,0,0.0071
+34013015000,"Bloomfield, NJ",,,0,0.0014
+34027044601,"Oak Ridge, Jefferson, NJ",,,0,0.0304
+42095018200,"Mount Bethel, PA",,,0,0.0602
+34003043001,"Park Ridge, NJ",,,0,0.0287
+34017010600,"Constable Hook, Bayonne, NJ",,,0.1939,0.0832
+34027043100,"Madison, NJ",,,0,0.0115
+34041032000,"Washington, NJ",,,0,0.0944
+34039038102,"New Providence, NJ",,,0.0386,0.0113
+34027046300,"Randolph, NJ",,,0.2655,0.0255
+34027041802,"Parsippany, Parsippany-Troy Hills, NJ",,,0,0.0263
+34027044502,"Dover, NJ",,,0.083,0.0606
+34017010100,"Bayonne, NJ",,,0.147,0.071
+34003021200,"Garfield, NJ",,,0.1131,0.0734
+34039032002,"Elizabeth, NJ",,,0.3034,0.0756
+34017012800,"Kearny, NJ",,,0.1562,0.032
+34039037700,"Summit, NJ",,,0,0.0053
+34027041100,"Boonton, NJ",,,0,0.0555
+34019010600,"Alexandria, NJ",,,#N/A,#N/A
+34031223801,"Totowa, NJ",,,0,0.0152
+34003044202,"Ramsey, NJ",,,0,0.01
+34013007700,"Ironbound District, Newark, NJ",,,0.1549,0.0205
+34031124800,"Clifton, NJ",,,0.1509,0.0541
+34003011400,"Elmwood Park, NJ",,,0.0488,0.0341
+34031246202,"Wayne, NJ",,,0,0.019
+34003047500,"Ridgewood, NJ",,,0,0.018
+34013013800,"Nutley, NJ",,,0.1706,0.0091
+34003036100,"South Hackensack, NJ",,,0.0528,0.0529
+34027040600,"Butler, NJ",,,0,0.0321
+34013021801,"West Caldwell, NJ",,,0,0.0056
+34027046000,"Netcong, NJ",,,0,0.0581
+34003056100,"Waldwick, NJ",,,0.1293,0.0234
+34041031601,"Belvidere, NJ",,,0,0.0339
+34031175601,"Passaic, NJ",,,0,0.0221
+34027042302,"Morris Plains, NJ",,,0,0.0543
+34003061100,"Wyckoff, NJ",,,0,0.0105
+34041031401,"Hackettstown, NJ",,,0,0.0748
+34041031900,"Washington, NJ",,,0,0.0473
+34031124311,"Montclair, NJ",,,0.096,0.0185
+34039037000,"Cranford, NJ",,,0,0.012
+34031124402,"Clifton, NJ",,,0.1704,0.0743
+34031124323,"Clifton, NJ",,,0.2437,0.0205
+34031175900,"Passaic, NJ",,,0.4854,0.1014
+34017000600,"The Heights, Jersey City, NJ",,,0.2061,0.0199
+34003047300,"Ridgewood, NJ",,,0,0.0038
+34027041604,"Morris Plains, NJ",,,0.0227,0.0243
+34031125000,"Clifton, NJ",,,0.2739,0.1964
+34035050802,"Bridgewater, NJ",,,#N/A,#N/A
+34027040801,"Montville, NJ",,,0,0.0233
+34017012600,"Kearny, NJ",,,0.1864,0.0327
+36087012000,"Suffern, NY",,,#N/A,#N/A
+34013980200,"Newark, NJ",,,0,0
+34013014500,"Belleville, NJ",,,0.2148,0.0406
+34017011500,"Constable Hook, Bayonne, NJ",,,0,0.0571
+34013021803,"West Caldwell, NJ",,,0,0.0075
+34003035100,"Montvale, NJ",,,0.0894,0.0151
+34003039100,"Oakland, NJ",,,0,0.0147
+34013000600,"Upper Roseville, Newark, NJ",,,0.4213,0.0567
+36085006700,"Richmond County, NY",,,#N/A,#N/A
+34031246103,"Wayne, NJ",,,0.0834,0.0069
+34039037200,"Cranford, NJ",,,0,0.0146
+34027043402,"Morristown, NJ",,,0,0.0148
+34039037100,"Cranford, NJ",,,0,0.0288
+34017001201,"The Heights, Jersey City, NJ",,,0.1703,0.1671
+34027045501,"Succasunna, Roxbury Township, NJ",,,0,0.0121
+34031175704,"Passaic, NJ",,,0.2115,0.0182
+34027042700,"Chatham, NJ",,,0,0.0141
+34031196402,"Pompton Lakes, NJ",,,0.1248,0.0325
+34039033700,"Roselle Park, NJ",,,0.1482,0.0338
+34041031200,"Blairstown, NJ",,,0,0.0886
+34003031400,"Lyndhurst, NJ",,,0.0518,0.0098
+34027044102,"Gillette, NJ",,,0,0.023
+34039033400,"Union, NJ",,,0.0499,0.0166
+34017010800,"Constable Hook, Bayonne, NJ",,,0.2423,0.0718
+34027045902,"Chester, NJ",,,0,0.0147
+34037372800,"Franklin, NJ",,,0,0.089
+42089300501,"East Stroudsburg, PA",,,0,0.1737
+34013020800,"Livingston, NJ",,,0.0681,0.0024
+34003021300,"Garfield, NJ",,,0.2389,0.0773
+34037372500,"Hamburg, NJ",,,#N/A,#N/A
+34031175301,"Passaic, NJ",,,0.4345,0.0109
+34013021701,"Caldwell, NJ",,,0,0.0095
+34039037900,"Summit, NJ",,,0,0.0011
+34035052904,"Far Hills, NJ",,,0,0.0137
+34017007300,"The Waterfront, Jersey City, NJ",,,0,0
+34031143400,"Hawthorne, NJ",,,0.1598,0.0212
+34017020100,"Secaucus, NJ",,,0,0
+34017012300,"Kearny, NJ",,,0.1626,0.025
+34027045603,"Randolph, NJ",,,0.1865,0.0165
+34027041902,"East Hanover, NJ",,,0,0.0266
+34041031101,"Blairstown, NJ",,,0,0.0469
+34013000200,"Upper Roseville, Newark, NJ",,,0.3203,0
+34013008800,"Seventh Avenue, Newark, NJ",,,0.439,0
+34013015200,"Bloomfield, NJ",,,0,0.0214
+34027041603,"Parsippany, Parsippany-Troy Hills, NJ",,,0.0254,0.0171
+34003039200,"Oakland, NJ",,,0,0.0184
+34039037500,"Springfield Township, NJ",,,0,0.0108
+34027041706,"Parsippany, Parsippany-Troy Hills, NJ",,,0.0966,0.0322
+34037371502,"Sussex County, NJ",,,#N/A,#N/A
+34013014300,"Belleville, NJ",,,0.1548,0.0673
+34037373400,"Lake Mohawk, Sparta Township, NJ",,,0,0.0231
+34039033900,"Roselle Park, NJ",,,0.1116,0.0877
+36085001700,"Richmond County, NY",,,#N/A,#N/A
+34031124900,"Clifton, NJ",,,0.2164,0.054
+34027041200,"Mountain Lakes, NJ",,,0,0.0231
+34017012900,"Kearny, NJ",,,0.1838,0.0279
+34013021000,"Verona, NJ",,,0,0.0343
+34013007000,"Ironbound District, Newark, NJ",,,0.0329,0.0653
+34003038300,"North Arlington, NJ",,,0.0347,0.0325
+34037372400,"Lafayette Township, NJ",,,0,0.0074
+34013014800,"Bloomfield, NJ",,,0,0.0193
+34013014000,"Belleville, NJ",,,0.0763,0.0368
+34017013900,"Harrison, NJ",,,0.1041,0.0307
+34031256804,"West Milford, NJ",,,0.0377,0.0338
+34037373000,"Ogdensburg, NJ",,,0,0.0692
+34027044401,"Rockaway, NJ",,,0,0.0346
+34035052100,"Dunellen, NJ",,,#N/A,#N/A
+34041032102,"Stewartsville, NJ",,,0,0.025
+34037372100,"Newton, NJ",,,0,0.0606
+36087011603,"Suffern, NY",,,0,0.032
+34027043401,"Morristown, NJ",,,0,0.019
+34003056200,"Waldwick, NJ",,,0,0.009
+34027044701,"Lake Hopatcong, Jefferson, NJ",,,0.205,0.0637
+34037374100,"Green Township, NJ",,,0,0.0219
+34013007100,"Ironbound District, Newark, NJ",,,0.08,0.0232
+34017010500,"Bayonne, NJ",,,0.2231,0.0932
+34037374500,"Hopatcong, NJ",,,0,0.0838
+34003011200,"Elmwood Park, NJ",,,0.1615,0.0372
+34017010200,"Bayonne, NJ",,,0.0936,0.0087
+34035052400,"Basking Ridge, Bernards, NJ",,,0,0.0091
+34031246201,"Wayne, NJ",,,0,0.0074
+34039038300,"Mountainside, NJ",,,0,0.0046
+34039036900,"Garwood, NJ",,,0,0.0065
+34017013400,"East Newark, NJ",,,0.0875,0.0452
+34031133701,"Haledon, NJ",,,0.1278,0.0635
+34027040500,"Butler, NJ",,,0,0.022
+34019010500,"Milford, NJ",,,#N/A,#N/A
+34017005802,"Jersey City, NJ",,,0,0.0007
+34041031102,"Blairstown, NJ",,,0,0.0173
+34013020100,"Essex County, NJ",,,0,0.0125
+34031216701,"Ringwood, NJ",,,0,0.0215
+34027046400,"Mendham, NJ",,,0,0.0045
+34031124200,"Clifton, NJ",,,0.1631,0.0389
+34003011100,"Elmwood Park, NJ",,,0.1264,0.0366
+34039032902,"Union, NJ",,,0.0131,0.0235
+34017013200,"Kearny, NJ",,,0.0988,0.0853
+34037374700,"Hopatcong, NJ",,,0.0859,0.0601
+34027041803,"Parsippany, Parsippany-Troy Hills, NJ",,,0,0.0245
+34039036800,"Westfield, NJ",,,#N/A,#N/A
+34027045704,"Randolph, NJ",,,0,0.0118
+34031246104,"Wayne, NJ",,,0,0.0188
+34027041602,"Morris Plains, NJ",,,0,0.0328
+34017013800,"Harrison, NJ",,,0.1668,0.0032
+34027040803,"Pine Brook, Montville, NJ",,,0,0.0156
+34031163500,"North Haledon, NJ",,,0.1353,0.0127
+34037371900,"Sussex County, NJ",,,0,0.0492
+34017000902,"Journal Square, Jersey City, NJ",,,0.3098,0.0498
+34003032201,"Mahwah, NJ",,,0,0.0154
+34037374300,"Byram Township, NJ",,,0,0.0147
+34027044702,"Lake Hopatcong, Jefferson, NJ",,,0,0.0357
+36085005900,"Richmond County, NY",,,#N/A,#N/A
+34039037601,"Springfield Township, NJ",,,0,0.0287
+34017011400,"Constable Hook, Bayonne, NJ",,,0.1997,0.0824
+34013020902,"Roseland, NJ",,,0,0.0172
+34017019900,"Secaucus, NJ",,,0.0827,0.0084
+34003022200,"Glen Rock, NJ",,,0,0.0123
+34003031200,"Lyndhurst, NJ",,,0.0958,0.019
+34013020400,"Livingston, NJ",,,0,0.0114
+34003050000,"Rochelle Park, NJ",,,0.1171,0.0536
+34017001900,"Journal Square, Jersey City, NJ",,,0.3614,0
+34013020200,"Essex County, NJ",,,0,0.016
+34003044100,"Ramsey, NJ",,,0,0.0117
+34027045100,"Wharton, NJ",,,0.1947,0.0786
+34039033300,"Union, NJ",,,0.1136,0.074
+34013014900,"Bloomfield, NJ",,,0,0.0051
+34003036200,"Moonachie, NJ",,,0.3584,0.0874
+34035052603,"Basking Ridge, Bernards, NJ",,,0,0.0283
+34037373600,"Newton, NJ",,,0,0.0704
+34027041601,"Morris Plains, NJ",,,0.0006,0.0417
+34003017400,"Fair Lawn, NJ",,,0.034,0.0097
+36087011901,"Suffern, NY",,,#N/A,#N/A
+34027041701,"Lake Hiawatha, Parsippany-Troy Hills, NJ",,,0.0689,0.0193
+34041031800,"Phillipsburg, NJ",,,0,0.1002
+34027045200,"Dover, NJ",,,0.06,0.0322
+34027043302,"Morristown, NJ",,,0,0.0002
+34003034000,"Midland Park, NJ",,,0,0.0381
+34039032100,"Elizabeth, NJ",,,0.1127,0.0305
+34031181800,"Paterson, NJ",,,0.4014,0
+34031154001,"Little Falls, NJ",,,0.0384,0.0332
+34017012700,"Kearny, NJ",,,0.1846,0.0579
+34031182301,"Paterson, NJ",,,0.457,0
+34037374000,"Newton, NJ",,,0,0.0209
+34027043000,"Madison, NJ",,,0,0.0061
+34039033600,"Kenilworth, NJ",,,0.0898,0.0391
+34013013500,"Nutley, NJ",,,0.0839,0.0205
+34003038200,"North Arlington, NJ",,,0.05,0.0249
+34013013700,"Nutley, NJ",,,0.0416,0.0153
+34039033800,"Roselle Park, NJ",,,0.1121,0.027
+34031246102,"Wayne, NJ",,,0,0.0301
+34013020700,"Livingston, NJ",,,0,0
+34031143300,"Hawthorne, NJ",,,0.2275,0.0206
+34003021400,"Garfield, NJ",,,0.1141,0.0975
+34035052800,"Somerset County, NJ",,,0,0.003
+34031124401,"Clifton, NJ",,,0.1566,0.0115
+34035052901,"Far Hills, NJ",,,0,0.0332
+34003017200,"Fair Lawn, NJ",,,0.291,0.0235
+34037373100,"Sparta Township, NJ",,,0,0.0278
+34031124321,"Clifton, NJ",,,0.1716,0.0452
+34013020901,"Essex Fells, NJ",,,0,0.0048
+34035052903,"Pluckemin, Bedminster Township, NJ",,,0,0.0097
+34003021100,"Garfield, NJ",,,0.1751,0.0495
+34031223802,"Totowa, NJ",,,0.0545,0.0279
+34031246203,"Wayne, NJ",,,0,0.0181
+34013020300,"Essex County, NJ",,,0,0.0005
+34003051100,"Rutherford, NJ",,,0.0056,0.0211
+34027045401,"Landing, Mount Arlington, NJ",,,0.1241,0.0346
+34027042100,"Whippany, Hanover, NJ",,,0,0.0237
+34031124312,"Clifton, NJ",,,0,0.0137
+34039038101,"New Providence, NJ",,,0,0.0184
+34013019400,"Maplewood, NJ",,,0,0.0207
+34027041901,"East Hanover, NJ",,,0,0.0255
+34017012500,"Kearny, NJ",,,0.0989,0.057
+34027042000,"Whippany, Hanover, NJ",,,0,0.0047
+34013014200,"Belleville, NJ",,,0.1432,0.0124
+34017011300,"Constable Hook, Bayonne, NJ",,,0.1225,0.0959
+34003052200,"Saddle Brook, NJ",,,0.1808,0.0051
+34013007900,"Ironbound District, Newark, NJ",,,0.1779,0.0683
+34039036100,"Winfield, NJ",,,#N/A,#N/A
+34017014800,"North Bergen, NJ",,,0.1446,0.1045
+34039030900,"Elizabeth, NJ",,,0.2369,0.0914
+34037373900,"Newton, NJ",,,0,0.0476
+34013013400,"Nutley, NJ",,,0,0.003
+34017006500,"Historic Downtown, Jersey City, NJ",,,0.2706,0
+34003017500,"Fair Lawn, NJ",,,0.1298,0.0109
+34031125100,"Botany Village, Clifton, NJ",,,0.2882,0.1188
+34035054100,"Basking Ridge, Bernards, NJ",,,0,0.0051
+34017013000,"Kearny, NJ",,,0.104,0.0822
+34037374600,"Stanhope, NJ",,,0,0.019
+34017010700,"Constable Hook, Bayonne, NJ",,,0.2608,0.0466
+34037374400,"Lake Mohawk, Byram Township, NJ",,,0,0.018
+34031246003,"Wayne, NJ",,,0,0.0145
+34013021200,"Verona, NJ",,,0,0.0108
+34003021500,"Garfield, NJ",,,0.2303,0.0905
+34017001000,"The Heights, Jersey City, NJ",,,0.1763,0.0235
+34039036200,"Clark, NJ",,,#N/A,#N/A
+34041032101,"Asbury, NJ",,,0,0.0359
+34031246101,"Wayne, NJ",,,0.135,0.0062
+34003060000,"Wood-Ridge, NJ",,,0.1063,0.0337
+34027041801,"Parsippany, Parsippany-Troy Hills, NJ",,,0.0501,0.0627
+34003058200,"Township of Washington, NJ",,,0,0.0198
+34039038202,"Berkeley Heights, NJ",,,0,0.0137
+34035052700,"Bernardsville, NJ",,,0,0.0166
+34003032202,"Mahwah, NJ",,,#N/A,#N/A
+34013007200,"Ironbound District, Newark, NJ",,,0.0759,0.0494
+34003039300,"Oakland, NJ",,,0,0.0066
+34013021100,"Verona, NJ",,,0,0.0092
+34039036500,"Westfield, NJ",,,0,0.0081
+34031264101,"Woodland Park, NJ",,,0.2113,0.0348
+34027040102,"Lincoln Park, NJ",,,0.0851,0.0476
+34027046104,"Flanders, Mount Olive Township, NJ",,,0,0.0235
+34013021602,"North Caldwell, NJ",,,0,0.0009
+36085012100,"Richmond County, NY",,,#N/A,#N/A
+34035053604,"Branchburg, NJ",,,#N/A,#N/A
+34027045804,"Mendham, NJ",,,0,0.0109
+34039035200,"Linden, NJ",,,0.1186,0.096
+34027046201,"Hackettstown, NJ",,,0,0.0088
+34017000100,"The Heights, Jersey City, NJ",,,0.2319,0.1039
+34027042600,"Florham Park, NJ",,,0,0.0486
+34003042400,"Paramus, NJ",,,0.0046,0.0177
+34003032104,"Mahwah, NJ",,,0,0.0741
+34003038100,"North Arlington, NJ",,,0.0879,0.0263
+34041031301,"Hackettstown, NJ",,,0,0.0342
+34041031302,"Allamuchy-Panther Valley, Hackettstown, NJ",,,0,0.058
+34013017301,"West Orange, NJ",,,0,0.0075
+34003051200,"Rutherford, NJ",,,0,0.019
+34013007800,"Ironbound District, Newark, NJ",,,0.2381,0.1356
+34003032103,"Mahwah, NJ",,,0,0.0198
+34019011100,"Hunterdon County, NJ",,,0,0.0251
+34027041400,"Denville, NJ",,,0,0.0131
+34013007300,"Ironbound District, Newark, NJ",,,0.1541,0.0746
+34039037800,"Summit, NJ",,,0.1473,0
+34017013500,"Harrison, NJ",,,0.3056,0.0553
+34037374200,"Stanhope, NJ",,,0,0.0092
+34027046202,"Long Valley, Washington Township, NJ",,,0,0.024
+34017019800,"Secaucus, NJ",,,0.0343,0.034
+34027044101,"Millington, Long Hill, NJ",,,0,0.0027
+34027044000,"Chatham Township, NJ",,,0,0.0125
+36085020100,"Richmond County, NY",,,#N/A,#N/A
+34037373500,"Newton, NJ",,,0,0.0271
+34027045701,"Randolph, NJ",,,0,0.0313
+34031124601,"Clifton, NJ",,,0.1718,0.0196
+34031246001,"Wayne, NJ",,,0,0.0079
+34019010300,"Glen Gardner, NJ",,,0,0.0387
+34027043200,"Madison, NJ",,,0,0.0248
+42095015400,"Bangor, PA",,,0,0.104
+34003017300,"Fair Lawn, NJ",,,0.0155,0.0243
+34003033300,"Maywood, NJ",,,0.0151,0.0154
+34013020000,"Essex County, NJ",,,0,0.0062
+34013020500,"Livingston, NJ",,,0,0.0057
+34027045502,"Ledgewood, Roxbury Township, NJ",,,0.0153,0.0156
+34003030100,"Lodi, NJ",,,0.1791,0.018
+34041031602,"Oxford, Oxford Township, NJ",,,0,0.1025
+36087011602,"Suffern, NY",,,#N/A,#N/A
+34027045901,"Chester, NJ",,,0,0.0294
+34013006900,"Ironbound District, Newark, NJ",,,0.2055,0.0388
+34037373200,"Sparta Township, NJ",,,0,0.0445
+34003047100,"Ridgewood, NJ",,,0,0.0201
+34003047200,"Ridgewood, NJ",,,0,0.0045
+34003030200,"Lodi, NJ",,,0.108,0.065
+34027041500,"Denville, NJ",,,0,0.0136
+34027044403,"White Meadow Lake, Rockaway, NJ",,,0,0.0126
+34003061200,"Wyckoff, NJ",,,0,0.0003
+34031124322,"Clifton, NJ",,,0.1383,0.0426
+34019011001,"Hunterdon County, NJ",,,0,0.0245
+34013000400,"Upper Roseville, Newark, NJ",,,0.2369,0
+34027045602,"Dover, NJ",,,0.2308,0
+34031196401,"Pompton Lakes, NJ",,,0.2546,0.0628
+34003011300,"Elmwood Park, NJ",,,0.0918,0.0114
+34027043303,"Morristown, NJ",,,0,0.0083
+34027040701,"Kinnelon, NJ",,,0,0.01
