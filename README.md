@@ -25,6 +25,7 @@ I worked with one location at a time. I first worked completely with Baltimore C
 *This is the bar chart for Baltimore City, MD* 
 
 
+
 *Meaning*: 
 
 
