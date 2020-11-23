@@ -32,7 +32,7 @@ I did the same process for Morris County, NJ.
 
 *This is the bar chart for Morris County, NJ:* 
 
-![alt_text](morris-bar-graph-updated.png) 
+![alt_text](morris-bar-graph-updated-1.png) 
 
 *Meaning*: Similar to Baltimore City, this graph shows that the black population has a significantly higher average TBR than the other races. The next highest TBR is the Hispanic population, but it is 20% lower than the black population's TBR, showing how large the black population's TBR is. The Hispanic and Asian populations have very small average TBRs, but not an extremely low amount as it was for Baltimore City.
 
