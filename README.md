@@ -24,7 +24,7 @@ I worked with one location at a time. I first worked completely with Baltimore C
 
 *This is the bar chart for Baltimore City, MD* 
 
-![alt_text](bmore-bar-graph.png) 
+![alt_text](bmore-bar-graph-updated.png) 
 
 *Meaning*: This graph shows that the black population has a significantly higher average TBR than the other races. The next highest TBR is the white population, but it is 30% lower than the black population's TBR, showing how large the black population TBR is. The Hispanic and Asian populations have very small average TBRs, but this may because there are fewer people of these races living in Baltimore.
 
@@ -32,7 +32,7 @@ I did the same process for Morris County, NJ.
 
 *This is the bar chart for Morris County, NJ:* 
 
-![alt_text](morris-bar-graph.png) 
+![alt_text](morris-bar-graph-updated.png) 
 
 *Meaning*: Similar to Baltimore City, this graph shows that the black population has a significantly higher average TBR than the other races. The next highest TBR is the Hispanic population, but it is 20% lower than the black population's TBR, showing how large the black population's TBR is. The Hispanic and Asian populations have very small average TBRs, but not an extremely low amount as it was for Baltimore City.
 
@@ -40,7 +40,7 @@ I then compared the two locations by grouping the two separate charts together.
 
 *This is the combined bar chart for both locations:*
 
-![alt_text](combined-bar-graph.png) 
+![alt_text](combined-bar-graph-updated.png) 
 
 *Meaning*: This graph shows how the two locations compare. For both locations, the black population has the highest average TBR. But the race for the second highest average TBR differs for each location, with Baltimore City's being white and Morris County's being Hispanic. Another important observation to note is that the average TBRs for the Asian and Hispanic populations for higher in Morris County than in Baltimore City, which suggests that Morris County needs to act more on this matter for Hispanics and Asians than Baltimore City needs to.
 
