@@ -24,25 +24,29 @@ I worked with one location at a time. I first worked completely with Baltimore C
 
 *This is the bar chart for Baltimore City, MD* 
 
+![alt_text](bmore-bar-graph.png) 
 
-
-*Meaning*: 
-
+*Meaning*: This graph shows that the black population has a significantly higher average TBR than the other races. The next highest TBR is the white population, but it is 30% lower than the black population's TBR, showing how large the black population TBR is. The Hispanic and Asian populations have very small average TBRs, but this may because there are fewer people of these races living in Baltimore.
 
 I did the same process for Morris County, NJ. 
 
 *This is the bar chart for Morris County, NJ:* 
 
-*Meaning*: 
+![alt_text](morris-bar-graph.png) 
 
+*Meaning*: Similar to Baltimore City, this graph shows that the black population has a significantly higher average TBR than the other races. The next highest TBR is the Hispanic population, but it is 20% lower than the black population's TBR, showing how large the black population's TBR is. The Hispanic and Asian populations have very small average TBRs, but not an extremely low amount as it was for Baltimore City.
 
 I then compared the two locations by grouping the two separate charts together. 
 
 *This is the combined bar chart for both locations:*
 
+![alt_text](combined-bar-graph.png) 
+
+*Meaning*: This graph shows how the two locations compare. For both locations, the black population has the highest average TBR. But the race for the second highest average TBR differs for each location, with Baltimore City's being white and Morris County's being Hispanic. Another important observation to note is that the average TBRs for the Asian and Hispanic populations for higher in Morris County than in Baltimore City, which suggests that Morris County needs to act more on this matter for Hispanics and Asians than Baltimore City needs to.
+
 Since the average TBR was highest for the black population for both locations, I filtered the data to only display neighborhoods/towns that had TBRs above the average for each location. I only looked at the black population. 
 
-From this, I learned that 
+From this, I learned that when looking at just black populations, 38.68% of neighborhoods in Baltimore City, MD have teenage birth rates higher than the average rate for the city as a whole and 21.01% of towns in Morris County, NJ have teenage birth rates higher than the average rate for the city as a whole. 
 
 ## Business Answer 
 
@@ -55,4 +59,8 @@ The data analysis shows that both locations have the highest TBRs for the black 
 As for how to aid the communities that have significantly high TBRs, the city and county officials need to improve the quality of the sex education system, accessibility of convenience stores that sell birth control, and better care for those in vulnerable situations, such as an abusive relationship where sexual violence is very high. 
 
 ## Comparing Excel and Python 
+
+While I am more familiar and comfortable with Excel, I think that Python is a better way to analyze data, especially large datasets. I appreciated how I could organize my work through Google Colaboratory using headings and notes, which I could not do in Excel. It was nice to be able to have one place where all my data was and another place where my analysis was, as opposed to Excel where the data and analysis are right next to each other. Python in general was easier for data manipulation. When filtering out data, it was nice to have a preview of what my code did and be able to easily undo that code if it didn't do what I thought it would. It is just much simpler to play around with different aspects of data analysis in Python than in Excel. 
+
+One drawback of Python, however, is the increased difficulty in creating data visualizations. In Excel, it is very simple to create charts from data, but it was much harder to do the same thing in Python. I do think that it takes some time to get used to it. As of now, I feel that it is easier to create and format charts in Excel because I spent much of my life working with it, and only just started learning Python. For example, I thought that having to manually code titles, labels, and other formatting in Python was a little tedious, but I am sure that with more practice it will become just as easy as Excel, making it a truly better option for data analysis. 
 
